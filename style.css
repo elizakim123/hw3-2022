@@ -31,7 +31,7 @@ img{
     margin-left: auto;
     margin-right:auto;
     border-style: dashed;
-    border-color: white;
+    border-color: #ffffff;
     border-width: 10px;
 
 }
@@ -40,7 +40,7 @@ div {
     min-height: 125px;
     padding:20px;
     border-width: 3px;
-    border-color: white;
+    border-color: #ffffff;
     border-style:solid;
 }
 
@@ -94,7 +94,7 @@ div {
 footer{
     background: linear-gradient(to right, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
     border-width: 5px;
-    border-color: white;
+    border-color: #ffffff;
     border-style: solid;
 
 }
